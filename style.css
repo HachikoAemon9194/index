@@ -1,0 +1,109 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(background4.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    
+   
+}
+
+.star{
+  width: 300px;
+  background-image: url(background.jpg);
+
+}
+
+.MainIcon{
+    max-height: 300px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.Icon {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+
+}
+
+.fb{
+    float: left;
+    padding-left:0px;
+    margin-top: 5cm;
+    
+    
+}
+.fb:hover{
+    scale: 1.5;
+    transition: .40s;
+    
+
+
+}
+
+.ig{
+    float: left;  
+    margin-top: 5cm; 
+    margin-left: 2cm; 
+}
+.ig:hover{
+    
+    scale: 1.5;
+    transition: .40s;
+    
+}
+
+.treadss{
+    float: left;  
+    margin-top: 5cm;
+    margin-left: 2cm;
+}
+.treadss:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+
+.twitter{
+    float: left;   
+    margin-top: 5cm;
+    margin-left: 2cm;
+}
+.twitter:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.youtube{
+    float: left;
+    margin-top: 5cm;
+    margin-left: 2cm;   
+}
+.youtube:hover{
+    scale: 1.5;
+    transition: .40s;
+}
+
+.email{
+    float: left;
+    margin-top: 5cm;
+    margin-left: 2cm;
+}
+
+.email:hover{
+  
+    scale: 1.5;
+    transition: .40s;
+}
+
+.copyright {
+    font-size: 15px; 
+    color: #fbf8f8; 
+    text-align: center; 
+    margin-top: 200px; 
+    
+
+   
+}
